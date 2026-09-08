@@ -1,0 +1,133 @@
+{
+    "pets": [
+        {
+            "id": 1,
+            "name": "Bruno",
+            "species": "Dog",
+            "breed": "Labrador",
+            "age": 2,
+            "gender": "Male",
+            "location": "Hyderabad",
+            "home": "House",
+            "activity": "High",
+            "status": "Adopted",
+            "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800"
+        },
+        {
+            "id": 2,
+            "name": "Bella",
+            "species": "Dog",
+            "breed": "Golden Retriever",
+            "age": 3,
+            "gender": "Female",
+            "location": "Bangalore",
+            "home": "House",
+            "activity": "Medium",
+            "status": "Available",
+            "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800"
+        },
+        {
+            "id": 3,
+            "name": "Rocky",
+            "species": "Dog",
+            "breed": "German Shepherd",
+            "age": 4,
+            "gender": "Male",
+            "location": "Hyderabad",
+            "home": "House",
+            "activity": "High",
+            "status": "Available",
+            "image": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=800"
+        },
+        {
+            "id": 4,
+            "name": "Coco",
+            "species": "Dog",
+            "breed": "Beagle",
+            "age": 2,
+            "gender": "Female",
+            "location": "Hyderabad",
+            "home": "Apartment",
+            "activity": "Medium",
+            "status": "Available",
+            "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?w=800"
+        },
+        {
+            "id": 5,
+            "name": "Milo",
+            "species": "Cat",
+            "breed": "Persian",
+            "age": 1,
+            "gender": "Male",
+            "location": "Hyderabad",
+            "home": "Apartment",
+            "activity": "Low",
+            "status": "Available",
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=800"
+        },
+        {
+            "id": 6,
+            "name": "Luna",
+            "species": "Cat",
+            "breed": "Siamese",
+            "age": 2,
+            "gender": "Female",
+            "location": "Chennai",
+            "home": "Apartment",
+            "activity": "Medium",
+            "status": "Available",
+            "image": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=800"
+        },
+        {
+            "name": "Scooby ",
+            "species": "Dog",
+            "breed": "Shitzhu",
+            "age": 2,
+            "gender": "Male",
+            "location": "Hyderabad",
+            "home": "House",
+            "activity": "High",
+            "image": "https://wrapinfur.com/cdn/shop/articles/Shih_Tzu_Dog_1_79a93963-f50e-4ce4-8061-3174d7b34080.png?v=1785838944&width=1100",
+            "id": 7,
+            "status": "Available"
+        },
+        {
+            "name": "Lucy ",
+            "species": "Dog",
+            "breed": "labrdor",
+            "age": 3,
+            "gender": "Female",
+            "location": "Nizambad",
+            "home": "House",
+            "activity": "Medium",
+            "image": "https://www.tradeindia.com/products/labrador-dogs-4328123.html",
+            "id": 8,
+            "status": "Available"
+        }
+    ],
+    "applications": [
+        {
+            "pet_id": 1,
+            "applicant_name": "Kamsali shikaradri",
+            "email": "Sshikharadri@gmail.com",
+            "phone": "6300253586",
+            "city": "hyderabad",
+            "reason": "i want to be happy with that pet",
+            "id": 1,
+            "status": "Approved"
+        }
+    ],
+    "users": [
+        {
+            "name": "Kamsali shikaradri",
+            "email": "Sshikharadri@gmail.com",
+            "city": "hyderabad",
+            "species": "Dog",
+            "preferred_age": 2,
+            "gender_preference": "Male",
+            "home": "Apartment",
+            "activity": "Low",
+            "id": 1
+        }
+    ]
+}
